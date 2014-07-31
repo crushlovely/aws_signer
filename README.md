@@ -1,5 +1,10 @@
 # AwsSigner for Ruby
 
+[![RubyGem Version](http://img.shields.io/gem/v/aws_signer.svg?style=flat)](https://rubygems.org/gems/aws_signer)
+[![Build Status](http://img.shields.io/travis/crushlovely/aws_signer.svg?style=flat)](https://travis-ci.org/crushlovely/aws_signer)
+[![Code Climate](http://img.shields.io/codeclimate/github/crushlovely/aws_signer.svg?style=flat)](https://codeclimate.com/github/crushlovely/aws_signer)
+[![Code Coverage](http://img.shields.io/codeclimate/coverage/github/crushlovely/aws_signer.svg?style=flat)](https://codeclimate.com/github/crushlovely/aws_signer)
+
 A gem to help with creating signed URLs for uploading files direct to S3.
 
 ## Installation
