@@ -4,5 +4,6 @@ cache: bundler
 rvm:
   - 1.9.3
   - 2.0.0
+  - 2.1.1
 
 script: 'CODECLIMATE_REPO_TOKEN=a27c0d01e9da7ef84f2be535e652f718745302ecefb650720e7ac5d1a946fb1d bundle exec rake'
